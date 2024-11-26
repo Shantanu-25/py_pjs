@@ -1,6 +1,6 @@
 Hello guys,
 <br>
-This repo consists of beginner , intermediate and advanced projects on python which was made by me.
+This repo consists of beginner projects on python which was made by me.
 <br>
 Author - Shantanu Giri
 <br>
